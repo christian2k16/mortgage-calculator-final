@@ -1,7 +1,7 @@
 ## Mortgage Calculator Application
     #Create an application which calculates the mortgage of a house given the principle, interest and term. 
 
-#The application will do the following steps:
+# The application will do the following steps:
 * Welcome the user to the application.
 * Ask the user what the property ID is.
 * Ask the user what the principle is (ex: 200000), the interest (ex: .0575), and term in months (360).
